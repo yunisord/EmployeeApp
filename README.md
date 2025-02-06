@@ -14,7 +14,7 @@ Before you can run the application, ensure you have the following installed:
 ## Step-by-Step Instructions
 
 ### 1. Clone the Repository
-Clone the repository to your local machine using Git.
+Clone the repository to your local machine using Git from the **master branch**.
 
 git clone https://github.com/yunisord/EmployeeApp.git
 
