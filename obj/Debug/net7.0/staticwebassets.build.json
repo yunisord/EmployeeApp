@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "9736/oAfShE3ZpTA06aBHKd71fRnwQXilMyeCzqUya8=",
+  "Source": "Employee",
+  "BasePath": "_content/Employee",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Employee\\wwwroot",
+      "Source": "Employee",
+      "ContentRoot": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\",
+      "BasePath": "_content/Employee",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\ui\\index.html",
+      "SourceId": "Employee",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\",
+      "BasePath": "_content/Employee",
+      "RelativePath": "ui/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ui\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\ui\\script.js",
+      "SourceId": "Employee",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\",
+      "BasePath": "_content/Employee",
+      "RelativePath": "ui/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ui\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\ui\\style.css",
+      "SourceId": "Employee",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\",
+      "BasePath": "_content/Employee",
+      "RelativePath": "ui/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ui\\style.css"
+    }
+  ]
+}

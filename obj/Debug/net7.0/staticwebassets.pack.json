@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\ui\\index.html",
+      "PackagePath": "staticwebassets\\ui\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\ui\\script.js",
+      "PackagePath": "staticwebassets\\ui\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\EmployeeApp\\wwwroot\\ui\\style.css",
+      "PackagePath": "staticwebassets\\ui\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Employee.props",
+      "PackagePath": "build\\Employee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Employee.props",
+      "PackagePath": "buildMultiTargeting\\Employee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Employee.props",
+      "PackagePath": "buildTransitive\\Employee.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
